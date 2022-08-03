@@ -7,3 +7,7 @@ current-limiting resistor) and is fully functional. When receiving, the directio
 to input and with the ESP32's ADC we measure the voltage.
 
 The code is just a proof of concept and not production ready.
+
+
+https://user-images.githubusercontent.com/1731210/182683026-0ba1cbc4-50e4-4302-b90c-e2b410439632.mp4
+
